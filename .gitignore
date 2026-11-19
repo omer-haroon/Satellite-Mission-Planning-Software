@@ -1,0 +1,30 @@
+
+# Build directories
+build/
+.vs/
+CMakeFiles/
+CMakeCache.txt
+
+# Compiled executables and libraries
+*.exe
+*.obj
+*.dll
+*.lib
+
+# Visual Studio generated files
+*.sln
+*.slnx
+*.vcxproj.user
+
+# Runtime logs
+logs/*.jsonl
+
+# Python cache
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
